@@ -14,11 +14,10 @@
 .logo-heading {
     white-space: normal;
 }
-/* Header styles starts */
+/* Header styles Ends */
 
 /* Body Styles Starts */
 .toast-container {
-    /* position: -webkit-sticky; */
     position: fixed;
     top: 50%;
     right: 0;
