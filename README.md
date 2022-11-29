@@ -1,5 +1,5 @@
 
-## Website Link: https://sayedpritom999.github.io/Glory-convention-center/
+## Website Link: https://sayedpritom.github.io/Glory-convention-center/
 
 This is a simple fully responsive convention hall landing page. 
 
